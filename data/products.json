@@ -1,0 +1,63 @@
+[
+  {
+    "product_id": "PRD-101",
+    "product_name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 24.99,
+    "currency": "USD",
+    "description": "Ergonomic 2.4 GHz wireless mouse with USB-A nano receiver. Up to 18-month battery life on a single AA battery. DPI range 800–1600, adjustable via dedicated button. Plug-and-play, no driver required. Compatible with Windows, macOS, and Chrome OS. Dimensions: 115 × 63 × 38 mm. Weight: 101 g (without battery).",
+    "warranty": "1-year limited hardware warranty. Covers manufacturing defects. Does not cover physical damage, liquid spills, or unauthorized modifications.",
+    "shipping": "Ships within 1 business day. Standard delivery 3–5 business days. Express delivery 1–2 business days at extra cost. Free standard shipping on orders over $35.",
+    "stock_qty": 40,
+    "in_stock": true
+  },
+  {
+    "product_id": "PRD-102",
+    "product_name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 89.99,
+    "currency": "USD",
+    "description": "Full-size mechanical keyboard with Cherry MX Blue switches. Per-key RGB backlighting with 16 preset lighting modes. N-key rollover for conflict-free gaming. Detachable USB-C cable, 1.8 m braided. Aluminum top plate. 104 keys. Windows, macOS, and Linux compatible. Dimensions: 440 × 135 × 40 mm. Weight: 1.2 kg.",
+    "warranty": "2-year limited hardware warranty. Covers switch and PCB defects. Keycap wear is not covered. RMA process initiated via support ticket.",
+    "shipping": "Ships within 1–2 business days. Standard delivery 3–5 business days. Express delivery 1–2 business days. Free standard shipping on orders over $35.",
+    "stock_qty": 12,
+    "in_stock": true
+  },
+  {
+    "product_id": "PRD-103",
+    "product_name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 39.99,
+    "currency": "USD",
+    "description": "7-in-1 USB-C hub. Ports: 4K HDMI, 2× USB-A 3.0, 1× USB-C PD 100W passthrough, SD card reader, microSD card reader. Compact bus-powered design, no external power adapter needed. Aluminum shell with thermal dissipation. Cable length: 15 cm. Compatible with MacBook, iPad Pro, and any USB-C laptop.",
+    "warranty": "1-year limited hardware warranty. Port damage due to force is not covered.",
+    "shipping": "Currently out of stock. Expected restock within 7–10 business days. Pre-orders available; ships as soon as stock arrives.",
+    "stock_qty": 0,
+    "in_stock": false
+  },
+  {
+    "product_id": "PRD-104",
+    "product_name": "Noise Cancelling Headphones",
+    "category": "Audio",
+    "price": 149.99,
+    "currency": "USD",
+    "description": "Over-ear Bluetooth 5.3 headphones with hybrid active noise cancellation (ANC). Up to 30-hour battery with ANC on; 50 hours with ANC off. Quick charge: 10 minutes charges for 3 hours of playback. Multi-device pairing for up to 2 devices simultaneously. 40 mm custom drivers, frequency response 20 Hz–20 kHz. Foldable design, included carrying case. 3.5 mm wired mode supported.",
+    "warranty": "2-year limited hardware warranty. Ear cushion wear is not covered but replacements are available for purchase.",
+    "shipping": "Ships within 1 business day. Standard delivery 3–5 business days. Express delivery available. Free standard shipping on orders over $35.",
+    "stock_qty": 5,
+    "in_stock": true
+  },
+  {
+    "product_id": "PRD-105",
+    "product_name": "Legacy Charger",
+    "category": "Accessories",
+    "price": 9.99,
+    "currency": "USD",
+    "description": "Discontinued 5W USB-A wall charger. This product is no longer sold or supported. Limited remaining stock. No warranty coverage for new purchases. Customers are advised to purchase a modern 20W USB-C charger instead.",
+    "warranty": "No warranty. Discontinued product.",
+    "shipping": "Ships if stock is available. No guaranteed ship date.",
+    "stock_qty": 2,
+    "in_stock": false
+  }
+]
+
